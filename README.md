@@ -22,6 +22,9 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 - 3 lignes disponibles
 - Possibilité de modifier l'argent gagné en passant à un arrêt.
 
+## Commandes :
+- /bus : En étant dans un bus, ouvre le menu pour commencer une nouvelle ligne.
+
 ## Notes
 
 - Dans le fichier de configuration, vous pourrez retrouver trois valeurs correspondant aux lignes 1,2,3. Cela correspond à l'argent gagné à chaque arrêt.

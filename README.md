@@ -29,6 +29,6 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 - Dans le fichier de configuration, vous pourrez retrouver trois valeurs correspondant aux lignes 1,2,3. Cela correspond à l'argent gagné à chaque arrêt.
 - Lignes :
-<img src="https://media.discordapp.net/attachments/1174014039333031936/1201209479593721956/20240128_175716_0000.png"/>
-<img src="https://media.discordapp.net/attachments/1174014039333031936/1201209488078807202/20240128_175716_0001.png"/>
-<img src="https://media.discordapp.net/attachments/1174014039333031936/1201209495808905336/20240128_175716_0002.png"/>
+<img src="https://i.imgur.com/nLx2zC1.png"/>
+<img src="https://i.imgur.com/sk1gDyc.png"/>
+<img src="https://i.imgur.com/SN7zxrK.png"/>

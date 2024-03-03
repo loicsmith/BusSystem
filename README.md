@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1174014039333031936/1201207958252556358/BUS_SYSTEM.png" width="300"/>
+<img src="https://i.imgur.com/Oy7pP5R.png" width="300"/>
 
 # PLUGIN BusSystem
 
